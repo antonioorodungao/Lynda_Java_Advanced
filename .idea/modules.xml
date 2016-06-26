@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assert/Assert.iml" filepath="$PROJECT_DIR$/Assert/Assert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BufferedReader/BufferedReader.iml" filepath="$PROJECT_DIR$/BufferedReader/BufferedReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ByteStreams/ByteStreams.iml" filepath="$PROJECT_DIR$/ByteStreams/ByteStreams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CharacterStreams/CharacterStreams.iml" filepath="$PROJECT_DIR$/CharacterStreams/CharacterStreams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionsFramework/CollectionsFramework.iml" filepath="$PROJECT_DIR$/CollectionsFramework/CollectionsFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DirectoryTree/DirectoryTree.iml" filepath="$PROJECT_DIR$/DirectoryTree/DirectoryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enum/Enum.iml" filepath="$PROJECT_DIR$/Enum/Enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExtendingThreads/ExtendingThreads.iml" filepath="$PROJECT_DIR$/ExtendingThreads/ExtendingThreads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileFinder/FileFinder.iml" filepath="$PROJECT_DIR$/FileFinder/FileFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileWatcher/FileWatcher.iml" filepath="$PROJECT_DIR$/FileWatcher/FileWatcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Finally/Finally.iml" filepath="$PROJECT_DIR$/Finally/Finally.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaPath/JavaPath.iml" filepath="$PROJECT_DIR$/JavaPath/JavaPath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lynda_Java_Advanced.iml" filepath="$PROJECT_DIR$/Lynda_Java_Advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManageFiles/ManageFiles.iml" filepath="$PROJECT_DIR$/ManageFiles/ManageFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MemberClasses/MemberClasses.iml" filepath="$PROJECT_DIR$/MemberClasses/MemberClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadingandWriting/ReadingandWriting.iml" filepath="$PROJECT_DIR$/ReadingandWriting/ReadingandWriting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReflectionAPI/ReflectionAPI.iml" filepath="$PROJECT_DIR$/ReflectionAPI/ReflectionAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scanner/Scanner.iml" filepath="$PROJECT_DIR$/Scanner/Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticInitializers/StaticInitializers.iml" filepath="$PROJECT_DIR$/StaticInitializers/StaticInitializers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SynchronizeThreads/SynchronizeThreads.iml" filepath="$PROJECT_DIR$/SynchronizeThreads/SynchronizeThreads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TryWithResources/TryWithResources.iml" filepath="$PROJECT_DIR$/TryWithResources/TryWithResources.iml" />
+    </modules>
+  </component>
+</project>
